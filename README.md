@@ -2,7 +2,7 @@
 
 
 - 👀 I have recently completed my Post Grduate Studies in Big Data Analytics.
-- 💞️ I’m looking for new opportunities to start my carrer in Data Driven roles.
+- 💞️ I’m looking for opportunities across Data Driven roles.
 - 📫 Reach me at: shansujee94@gmail.com or send a message on LinkedIn (www.linkedin.com/in/sujee-shan)
 
 

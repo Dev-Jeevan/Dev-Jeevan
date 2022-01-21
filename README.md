@@ -10,7 +10,6 @@
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Dev-Jeevan)](https://github.com/YOUR_USERNAME/github-contribution-stats/)          [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dev-Jeevan&count_private=true&theme=react&showicons=true)]()
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Jeevan&langs_count=5&theme=react)]()
 
 
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
